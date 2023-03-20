@@ -1,6 +1,6 @@
 <!-- BEGIN TOP -->
 
-# Home: Lab Brussels 1
+# Home: Class-21-Brussels
 
 > <details>
 > <summary>Tech Support</summary>
@@ -10,10 +10,10 @@
 >  </details>
 
 - [Class Calendar](./assets/calendar.png)
-- [Study Board](https://github.com/orgs/HYF-Class21/projects/2)
+- [Study Board](https://github.com/orgs/HYF-Class21/projects/2/views/1)
 - People
   - [Learners](#learners) -
-    [Randomizer](https://lab-brussels-1.github.io/home/randomizer)
+    [Randomizer](https://hyf-class21.github.io/home/randomizer)
   - [Coaches](#coaches)
   - [Admins](#admins)
 - [Cheat Sheets](./cheat-sheets)
@@ -36,21 +36,21 @@ Learn to plan and build web applications as a team.
 
 > [check-ins](https://github.com/HYF-Class21/home/issues?q=milestone%3A%220.+Precourse%22+label%3Acheck-in)
 > |
-> [deliverables board](https://github.com/orgs/HYF-Class21/projects/2/views/1?visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C%22Labels%22%2C%22Milestone%22%5D)
+> [deliverables board](https://github.com/orgs/HYF-Class21/projects/2/views/1?filterQuery=milestone%3A%220.+Precourse%22+label%3Adeliverable)
 > |
-> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"0.%20Precourse"+label%3Aretro+label%3Acheck-in)
+> [retros](https://github.com/HYF-Class21/home/issues?q=milestone%3A%220.+Precourse%22+label%3Aretro+label%3Acheck-in)
 > || [milestone](https://github.com/HYF-Class21/home/milestone/1)
 
 Set up your accounts and prepare your development environment.
 
 ### [1. Workflows](https://github.com/hackyourfuturebelgium/workflows): 2 weeks
 
-> [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"1.%20Workflows"+label%3Acheck-in)
+> [check-ins](https://github.com/HYF-Class21/home/issues?q=milestone%3A"1.%20Workflows"+label%3Acheck-in)
 > |
-> [deliverables board]([https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"1.%20Workflows"+label%3Adeliverable](https://github.com/orgs/HYF-Class21/projects/2/views/1?visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C%22Labels%22%2C%22Milestone%22%5D))
+> [deliverables board](https://github.com/orgs/HYF-Class21/projects/2/views/1?filterQuery=milestone%3A"1.%20Workflows"+label%3Adeliverable)
 > |
-> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"1.%20Workflows"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/lab-brussels-1/home/milestone/2)
+> [retros](https://github.com/HYF-Class21/home/issues?q=milestone%3A"1.%20Workflows"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/HYF-Class21/home/milestone/2)
 
 Learn the workflows you need to develop individually and in a group.
 
@@ -67,12 +67,12 @@ Learn the workflows you need to develop individually and in a group.
 
 ### [2. Agile Development](https://github.com/hackyourfuturebelgium/agile-development): 4 weeks
 
-> [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"2.%20Agile%20Development"+label%3Acheck-in)
+> [check-ins](https://github.com/HYF-Class21/home/issues?q=milestone%3A"2.%20Agile%20Development"+label%3Acheck-in)
 > |
-> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"2.%20Agile%20Development"+label%3Adeliverable)
+> [deliverables board](https://github.com/orgs/HYF-Class21/projects/2/views/1?filterQuery=milestone%3A"2.%20Agile%20Development"+label%3Adeliverable)
 > |
-> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"2.%20Agile%20Development"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/lab-brussels-1/home/milestone/3)
+> [retros](https://github.com/HYF-Class21/home/issues?q=milestone%3A"2.%20Agile%20Development"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/HYF-Class21/home/milestone/3)
 
 Practice collaboratively planning and developing HTML/CSS websites.
 
@@ -99,12 +99,12 @@ Practice collaboratively planning and developing HTML/CSS websites.
 
 ### [3. UX/UI Design](https://github.com/hackyourfuturebelgium/ux-ui-design): 2 weeks
 
-> [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"3.%20UX%2FUI%20Design"+label%3Acheck-in)
+> [check-ins](https://github.com/HYF-Class21/home/issues?q=milestone%3A"3.%20UX%2FUI%20Design"+label%3Acheck-in)
 > |
-> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"3.%20UX%2FUI%20Design"+label%3Adeliverable)
+> [deliverables board](https://github.com/orgs/HYF-Class21/projects/2/views/1?filterQuery=milestone%3A"3.%20UX%2FUI%20Design"+label%3Adeliverable)
 > |
-> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"3.%20UX%2FUI%20Design"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/lab-brussels-1/home/milestone/4)
+> [retros](https://github.com/HYF-Class21/home/issues?q=milestone%3A"3.%20UX%2FUI%20Design"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/HYF-Class21/home/milestone/4)
 
 Explore design thinking process and placing your users at the center of your
 development process.
@@ -122,12 +122,12 @@ development process.
 
 ### [4. Welcome to JS](https://github.com/hackyourfuturebelgium/welcome-to-js): 3 weeks
 
-> [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"4.%20Welcome%20to%20JS"+label%3Acheck-in)
+> [check-ins](https://github.com/HYF-Class21/home/issues?q=milestone%3A"4.%20Welcome%20to%20JS"+label%3Acheck-in)
 > |
-> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"4.%20Welcome%20to%20JS"+label%3Adeliverable)
+> [deliverables board](https://github.com/orgs/HYF-Class21/projects/2/views/1?filterQuery=milestone%3A"4.%20Welcome%20to%20JS"+label%3Adeliverable)
 > |
-> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"4.%20Welcome%20to%20JS"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/lab-brussels-1/home/milestone/5)
+> [retros](https://github.com/HYF-Class21/home/issues?q=milestone%3A"4.%20Welcome%20to%20JS"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/HYF-Class21/home/milestone/5)
 
 Learn to read small programs, and to write code that other people can
 understand.
@@ -151,24 +151,24 @@ understand.
 
 ### [5. Inside JS](https://github.com/hackyourfuturebelgium/inside-js): 4 weeks
 
-> [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"5.%20Inside%20JS"+label%3Acheck-in)
+> [check-ins](https://github.com/HYF-Class21/home/issues?q=milestone%3A"5.%20Inside%20JS"+label%3Acheck-in)
 > |
-> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"5.%20Inside%20JS"+label%3Adeliverable)
+> [deliverables board](https://github.com/orgs/HYF-Class21/projects/2/views/1?filterQuery=milestone%3A"5.%20Inside%20JS"+label%3Adeliverable)
 > |
-> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"5.%20Inside%20JS"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/lab-brussels-1/home/milestone/6)
+> [retros](https://github.com/HYF-Class21/home/issues?q=milestone%3A"5.%20Inside%20JS"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/HYF-Class21/home/milestone/6)
 
 Take a deep dive into JavaScript and explore some it's trickiest features. Build
 your foundations now so later you can focus on the fun stuff.
 
 ### [6. Behavior, Strategy, Implementation](https://github.com/hackyourfuturebelgium/behavior-strategy-implementation): 3 weeks
 
-> [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"6.%20Behavior%2C%20Strategy%2C%20Implementation"+label%3Acheck-in)
+> [check-ins](https://github.com/HYF-Class21/home/issues?q=milestone%3A"6.%20Behavior%2C%20Strategy%2C%20Implementation"+label%3Acheck-in)
 > |
-> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"6.%20Behavior%2C%20Strategy%2C%20Implementation"+label%3Adeliverable)
+> [deliverables board](https://github.com/orgs/HYF-Class21/projects/2/views/1?filterQuery=milestone%3A"6.%20Behavior%2C%20Strategy%2C%20Implementation"+label%3Adeliverable)
 > |
-> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"6.%20Behavior%2C%20Strategy%2C%20Implementation"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/lab-brussels-1/home/milestone/7)
+> [retros](https://github.com/HYF-Class21/home/issues?q=milestone%3A"6.%20Behavior%2C%20Strategy%2C%20Implementation"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/HYF-Class21/home/milestone/7)
 
 Explore problem solving in JavaScript, learn how to write and review solutions
 to JS coding challenges.
@@ -190,61 +190,60 @@ to JS coding challenges.
 
 ### [7. Separation of Concerns](https://github.com/hackyourfuturebelgium/separation-of-concerns): 3 weeks
 
-> [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"7.%20Separation%20of%20Concerns"+label%3Acheck-in)
+> [check-ins](https://github.com/HYF-Class21/home/issues?q=milestone%3A"7.%20Separation%20of%20Concerns"+label%3Acheck-in)
 > |
-> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"7.%20Separation%20of%20Concerns"+label%3Adeliverable)
+> [deliverables board](https://github.com/orgs/HYF-Class21/projects/2/views/1?filterQuery=milestone%3A"7.%20Separation%20of%20Concerns"+label%3Adeliverable)
 > |
-> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"7.%20Separation%20of%20Concerns"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/lab-brussels-1/home/milestone/8)
+> [retros](https://github.com/HYF-Class21/home/issues?q=milestone%3A"7.%20Separation%20of%20Concerns"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/HYF-Class21/home/milestone/8)
 
 Learn how to break down interactive web pages into clear tasks that can be
 shared divided across team.
 
 ### [8. Asynchronous Programming](https://github.com/hackyourfuturebelgium/asynchronous-programming): 3 weeks
 
-> [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"8.%20Asynchronous%20Programming"+label%3Acheck-in)
+> [check-ins](https://github.com/HYF-Class21/home/issues?q=milestone%3A"8.%20Asynchronous%20Programming"+label%3Acheck-in)
 > |
-> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"8.%20Asynchronous%20Programming"+label%3Adeliverable)
+> [deliverables board](https://github.com/orgs/HYF-Class21/projects/2/views/1?filterQuery=milestone%3A"8.%20Asynchronous%20Programming"+label%3Adeliverable)
 > |
-> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"8.%20Asynchronous%20Programming"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/lab-brussels-1/home/milestone/9)
+> [retros](https://github.com/HYF-Class21/home/issues?q=milestone%3A"8.%20Asynchronous%20Programming"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/HYF-Class21/home/milestone/9)
 
 Learn how the JavaScript event loop works and how you can use API data in your
 websites.
 
-
 ### [9. Component Based Design/React](https://github.com/hackyourfuturebelgium/component-based-design): 3 weeks
 
-> [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"10.%20Component%20Based%20Design"+label%3Acheck-in)
+> [check-ins](https://github.com/HYF-Class21/home/issues?q=milestone%3A"10.%20Component%20Based%20Design"+label%3Acheck-in)
 > |
-> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"10.%20Component%20Based%20Design"+label%3Adeliverable)
+> [deliverables board](https://github.com/orgs/HYF-Class21/projects/2/views/1?filterQuery=milestone%3A"10.%20Component%20Based%20Design"+label%3Adeliverable)
 > |
-> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"10.%20Component%20Based%20Design"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/lab-brussels-1/home/milestone/11)
+> [retros](https://github.com/HYF-Class21/home/issues?q=milestone%3A"10.%20Component%20Based%20Design"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/HYF-Class21/home/milestone/11)
 
 Practice developing Single Page Apps built from reusable UI components, and
 explore your first Frontend Framework.
 
 ### [Individual Project](https://github.com/hackyourfuturebelgium/individual-project): 2 weeks
 
-> [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"11.%20Individual%20Project"+label%3Acheck-in)
+> [check-ins](https://github.com/HYF-Class21/home/issues?q=milestone%3A"11.%20Individual%20Project"+label%3Acheck-in)
 > |
-> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"11.%20Individual%20Project"+label%3Adeliverable)
+> [deliverables board](https://github.com/orgs/HYF-Class21/projects/2/views/1?filterQuery=milestone%3A"11.%20Individual%20Project"+label%3Adeliverable)
 > |
-> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"11.%20Individual%20Project"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/lab-brussels-1/home/milestone/12)
+> [retros](https://github.com/HYF-Class21/home/issues?q=milestone%3A"11.%20Individual%20Project"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/HYF-Class21/home/milestone/12)
 
 Prepare for the final project by individually designing, planning, building and
 deploying your own fullstack web app.
 
 ### [Final Project](https://github.com/hackyourfuturebelgium/final-project): 6 weeks
 
-> [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"12.%20Final%20Project"+label%3Acheck-in)
+> [check-ins](https://github.com/HYF-Class21/home/issues?q=milestone%3A"12.%20Final%20Project"+label%3Acheck-in)
 > |
-> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"12.%20Final%20Project"+label%3Adeliverable)
+> [deliverables board](https://github.com/orgs/HYF-Class21/projects/2/views/1?filterQuery=milestone%3A"12.%20Final%20Project"+label%3Adeliverable)
 > |
-> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"12.%20Final%20Project"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/lab-brussels-1/home/milestone/13)
+> [retros](https://github.com/HYF-Class21/home/issues?q=milestone%3A"12.%20Final%20Project"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/HYF-Class21/home/milestone/13)
 
 Put it all together! Work in teams to identify your target users and a
 real-world problem they face, then deliver a web app to meet their needs.
@@ -257,8 +256,6 @@ real-world problem they face, then deliver a web app to meet their needs.
 
 ## Learners
 
-
-
 <!-- END LEARNERS -->
 
 <!-- BEGIN COACHES -->
@@ -267,14 +264,10 @@ real-world problem they face, then deliver a web app to meet their needs.
 
 <!-- <table><tr><th> <img src="./admin/assets/avatars/Banjopalmo.png" height="200px" width="200px" alt="Banjopalmo avatar" /> </th><th> <h3 id="Banjopalmo">Benjamin</h3><br><a href="https://github.com/Banjopalmo">Banjopalmo</a><br><a href="https://github.com/lab-brussels-1/home/issues?q=author%3ABanjopalmo">opened</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=assignee%3ABanjopalmo">assigned</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=commenter%3ABanjopalmo">commented</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=mentions%3ABanjopalmo">mentioned</a><br> </th></tr></table> -->
 
-
-
 <!-- END COACHES -->
 
 <!-- BEGIN ADMINS -->
 
 ## Admins
-
-
 
 <!-- END ADMINS -->
