@@ -47,7 +47,7 @@ Set up your accounts and prepare your development environment.
 
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"1.%20Workflows"+label%3Acheck-in)
 > |
-> [deliverables board]([https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"1.%20Workflows"+label%3Adeliverable](https://github.com/orgs/HYF-Class21/projects/2/views/1?visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C%22Labels%22%2C%22Milestone%22%5D))
+> [deliverables board](<[https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"1.%20Workflows"+label%3Adeliverable](https://github.com/orgs/HYF-Class21/projects/2/views/1?visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C%22Labels%22%2C%22Milestone%22%5D)>)
 > |
 > [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"1.%20Workflows"+label%3Aretro+label%3Acheck-in)
 > || [milestone](https://github.com/lab-brussels-1/home/milestone/2)
@@ -212,7 +212,6 @@ shared divided across team.
 Learn how the JavaScript event loop works and how you can use API data in your
 websites.
 
-
 ### [9. Component Based Design/React](https://github.com/hackyourfuturebelgium/component-based-design): 3 weeks
 
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"10.%20Component%20Based%20Design"+label%3Acheck-in)
@@ -257,8 +256,6 @@ real-world problem they face, then deliver a web app to meet their needs.
 
 ## Learners
 
-
-
 <!-- END LEARNERS -->
 
 <!-- BEGIN COACHES -->
@@ -267,14 +264,10 @@ real-world problem they face, then deliver a web app to meet their needs.
 
 <!-- <table><tr><th> <img src="./admin/assets/avatars/Banjopalmo.png" height="200px" width="200px" alt="Banjopalmo avatar" /> </th><th> <h3 id="Banjopalmo">Benjamin</h3><br><a href="https://github.com/Banjopalmo">Banjopalmo</a><br><a href="https://github.com/lab-brussels-1/home/issues?q=author%3ABanjopalmo">opened</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=assignee%3ABanjopalmo">assigned</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=commenter%3ABanjopalmo">commented</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=mentions%3ABanjopalmo">mentioned</a><br> </th></tr></table> -->
 
-
-
 <!-- END COACHES -->
 
 <!-- BEGIN ADMINS -->
 
 ## Admins
-
-
 
 <!-- END ADMINS -->
