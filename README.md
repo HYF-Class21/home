@@ -47,7 +47,8 @@ Set up your accounts and prepare your development environment.
 
 > [check-ins](https://github.com/HYF-Class21/home/issues?q=milestone%3A"1.%20Workflows"+label%3Acheck-in)
 > |
-> [deliverables board](https://github.com/orgs/HYF-Class21/projects/2/views/1?filterQuery=milestone%3A"1.%20Workflows"+label%3Adeliverable)
+<<<<<<< HEAD
+> [deliverables board](<[https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"1.%20Workflows"+label%3Adeliverable](https://github.com/orgs/HYF-Class21/projects/2/views/1?visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C%22Labels%22%2C%22Milestone%22%5D)>)
 > |
 > [retros](https://github.com/HYF-Class21/home/issues?q=milestone%3A"1.%20Workflows"+label%3Aretro+label%3Acheck-in)
 > || [milestone](https://github.com/HYF-Class21/home/milestone/2)
