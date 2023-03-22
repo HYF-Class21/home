@@ -13,6 +13,6 @@
 2. Swimming
 3. Guitar Playing
 
-**_nice to meet you all_**
+**_nice to meet you all_** :smile:
 
 ![My picture](img/4246.JPG)
