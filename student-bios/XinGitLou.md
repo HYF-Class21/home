@@ -12,4 +12,4 @@ You can find me at [GitHub](https://github.com/XinGITLou)
 
 Here is a picture guide how to do a pull request:
 
-![pullrequest](../assets/Pullrequest.jpg)
+![pullrequest](../student-bios/img/Pullrequest.jpg)
