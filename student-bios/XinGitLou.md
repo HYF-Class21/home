@@ -10,6 +10,4 @@ Here are stuffs i am learning to help me achieve my goals in the future
 
 You can find me at [GitHub](https://github.com/XinGITLou)
 
-Here is a picture guide how to do a pull request:
-
-![pullrequest](../student-bios/img/Pullrequest.jpg)
+![Alt text](img/IMG-0602.jpg)
