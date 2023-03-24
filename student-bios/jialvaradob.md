@@ -6,4 +6,4 @@ for assessing web applications in terms of expected function. I'm also
 passionate about _Artificial Intelligence_, _User experience (Ergonomics)_ and
 _Psychology related to IT fields_.
 
-![Profile Juan](img/profile juan.jpg 'My Profile!')
+![Profile](img/profile juan.jpg)
