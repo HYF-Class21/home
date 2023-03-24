@@ -3,7 +3,7 @@
 1. Clone the class repository
 2. Create a new branch and add a file in the ./student-bios folder:
    - **important**: Use your GitHub username as the name of your file. ie.
-     `jialvaradob.md`
+     `colevandersWands.md`
    - Go all out! Take a look at this
      [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
      and [emojis list](https://gist.github.com/rxaviers/7360908) for inspiration
