@@ -353,16 +353,16 @@ real-world problem they face, then deliver a web app to meet their needs.
 </details>
 <hr style="width:60%;align:center">
 
-| <img src="./admin/assets/avatars/juharzeynu.png" height="200px" width="200px" alt="juharzeynu avatar" /> | <h3 id="juharzeynu">Juhar</h3><br>[juharzeynu](https://github.com/juharzeynu) \| [home page](https://juharzeynu.github.io) \| [bio](./student-bios/juharzeynu.md)<br>[check-ins](https://github.com/HYF-class21/home/issues/?q=assignee%3Ajuharzeynu+label%3Acheck-in) \| [deliverables](https://github.com/HYF-class21/home/projects/1?card_filter_query=assignee%3Ajuharzeynu+label%3Adeliverable) \| [retros](https://github.com/HYF-class21/home/issues/?q=assignee%3Ajuharzeynu+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class21/home/issues?q=author%3Ajuharzeynu) \| [assigned](https://github.com/HYF-class21/home/issues?q=assignee%3Ajuharzeynu) \| [commented](https://github.com/HYF-class21/home/issues?q=commenter%3Ajuharzeynu) \| [mentioned](https://github.com/HYF-class21/home/issues?q=mentions%3Ajuharzeynu) |
+| <img src="./admin/assets/avatars/Juharzeynu.png" height="200px" width="200px" alt="Juharzeynu avatar" /> | <h3 id="Juharzeynu">Juhar</h3><br>[Juharzeynu](https://github.com/Juharzeynu) \| [home page](https://Juharzeynu.github.io) \| [bio](./student-bios/Juharzeynu.md)<br>[check-ins](https://github.com/HYF-class21/home/issues/?q=assignee%3AJuharzeynu+label%3Acheck-in) \| [deliverables](https://github.com/HYF-class21/home/projects/1?card_filter_query=assignee%3AJuharzeynu+label%3Adeliverable) \| [retros](https://github.com/HYF-class21/home/issues/?q=assignee%3AJuharzeynu+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class21/home/issues?q=author%3AJuharzeynu) \| [assigned](https://github.com/HYF-class21/home/issues?q=assignee%3AJuharzeynu) \| [commented](https://github.com/HYF-class21/home/issues?q=commenter%3AJuharzeynu) \| [mentioned](https://github.com/HYF-class21/home/issues?q=mentions%3AJuharzeynu) |
 | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <details>
 <summary>Juhar's github stats</summary>
 <br>
 
-![juharzeynu github activity](https://ghchart.rshah.org/juharzeynu)
+![Juharzeynu github activity](https://ghchart.rshah.org/Juharzeynu)
 
-![juharzeynu github stats](https://github-readme-stats.vercel.app/api?username=juharzeynu&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+![Juharzeynu github stats](https://github-readme-stats.vercel.app/api?username=Juharzeynu&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">
@@ -437,16 +437,16 @@ real-world problem they face, then deliver a web app to meet their needs.
 </details>
 <hr style="width:60%;align:center">
 
-| <img src="./admin/assets/avatars/XinGitLou.png" height="200px" width="200px" alt="XinGitLou avatar" /> | <h3 id="XinGitLou">Xin</h3><br>[XinGitLou](https://github.com/XinGitLou) \| [home page](https://XinGitLou.github.io) \| [bio](./student-bios/XinGitLou.md)<br>[check-ins](https://github.com/HYF-class21/home/issues/?q=assignee%3AXinGitLou+label%3Acheck-in) \| [deliverables](https://github.com/HYF-class21/home/projects/1?card_filter_query=assignee%3AXinGitLou+label%3Adeliverable) \| [retros](https://github.com/HYF-class21/home/issues/?q=assignee%3AXinGitLou+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class21/home/issues?q=author%3AXinGitLou) \| [assigned](https://github.com/HYF-class21/home/issues?q=assignee%3AXinGitLou) \| [commented](https://github.com/HYF-class21/home/issues?q=commenter%3AXinGitLou) \| [mentioned](https://github.com/HYF-class21/home/issues?q=mentions%3AXinGitLou) |
+| <img src="./admin/assets/avatars/XinGITLou.png" height="200px" width="200px" alt="XinGITLou avatar" /> | <h3 id="XinGITLou">Xin</h3><br>[XinGITLou](https://github.com/XinGITLou) \| [home page](https://XinGITLou.github.io) \| [bio](./student-bios/XinGITLou.md)<br>[check-ins](https://github.com/HYF-class21/home/issues/?q=assignee%3AXinGITLou+label%3Acheck-in) \| [deliverables](https://github.com/HYF-class21/home/projects/1?card_filter_query=assignee%3AXinGITLou+label%3Adeliverable) \| [retros](https://github.com/HYF-class21/home/issues/?q=assignee%3AXinGITLou+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class21/home/issues?q=author%3AXinGITLou) \| [assigned](https://github.com/HYF-class21/home/issues?q=assignee%3AXinGITLou) \| [commented](https://github.com/HYF-class21/home/issues?q=commenter%3AXinGITLou) \| [mentioned](https://github.com/HYF-class21/home/issues?q=mentions%3AXinGITLou) |
 | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <details>
 <summary>Xin's github stats</summary>
 <br>
 
-![XinGitLou github activity](https://ghchart.rshah.org/XinGitLou)
+![XinGITLou github activity](https://ghchart.rshah.org/XinGITLou)
 
-![XinGitLou github stats](https://github-readme-stats.vercel.app/api?username=XinGitLou&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+![XinGITLou github stats](https://github-readme-stats.vercel.app/api?username=XinGITLou&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">
