@@ -1,26 +1,8 @@
-- name: Benjamin
-  user: Banjopalmo
 - name: Bernardo
   user: bermarte
-- name: Caterina
-  user: caterinamennito
-- name: Jonathan
-  user: jgoyvaerts
-- name: Kevin
-  user: KevinTss
-- name: Louis
-  user: Mamboleoo
-- name: Maël
-  user: maeligg
-- name: Michiel
-  user: MichielPovre
+- name: Mame
+  user: mametur
 - name: Samir
   user: samirm00
-- name: Sander
-  user: sandermaas
 - name: Tamer
   user: talmurshidi
-- name: Thibault
-  user: ThibaultLesuisse
-- name: Unmesh
-  user: unmeshvrije

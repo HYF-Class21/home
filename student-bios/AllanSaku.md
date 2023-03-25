@@ -33,4 +33,4 @@ meals.
 
 You can find me at [Github](https://github.com/AllanSaku)
 
-![my picture](../assets/IMG_0903.jpg)
+![my picture](./img/IMG_0903.jpg)
