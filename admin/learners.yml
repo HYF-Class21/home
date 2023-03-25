@@ -1,26 +1,30 @@
-- name: Addi
-  user: AddiAlomoush
-- name: Alex
-  user: alex-maletskyi
-- name: Ali
-  user: alisanlii
-- name: Allan
-  user: AllanSaku
 - name: Arseniia
   user: ArseniiaDamaksina
-- name: Hsia
-  user: yunhsiaho
-- name: Juan
-  user: jialvaradob
-- name: Juhar
-  user: Juharzeynu
-- name: Marina
-  user: marina-bashlak
 - name: Mervat
   user: Mervatabuamro
-- name: Neha
-  user: Neha-2012
+- name: Maryna
+  user: marina-bashlak
 - name: Rabita
   user: RabitaMaharjan
-- name: Xin Lou
-  user: XinGITLou
+- name: Addi 
+  user: AddiAlomoush
+- name: Ali
+  user: alisanlii
+- name: Neha
+  user: Neha-2012
+- name: Yun-Hsia 
+  user: yunhsiaho
+- name: Oleksandr 
+  user: alex-maletskyi
+- name: Xin 
+  user: XinGitLou
+- name: Juan 
+  user: jialvaradob
+- name: Juhar
+  user: juharzeynu
+- name: Allan 
+  user: AllanSaku
+- name: Belkis  
+  user: blksck
+- name: Valerii   
+  user: valerii
