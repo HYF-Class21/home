@@ -1,14 +1,14 @@
-- name: Addi 
+- name: Addi
   user: AddiAlomoush
 - name: Ali
   user: alisanlii
-- name: Allan 
+- name: Allan
   user: AllanSaku
 - name: Arseniia
   user: ArseniiaDamaksina
-- name: Belkis  
+- name: Belkis
   user: blksck
-- name: Juan 
+- name: Juan
   user: jialvaradob
 - name: Juhar
   user: Juharzeynu
@@ -18,14 +18,11 @@
   user: Mervatabuamro
 - name: Neha
   user: Neha-2012
-- name: Oleksandr 
+- name: Oleksandr
   user: alex-maletskyi
 - name: Rabita
   user: RabitaMaharjan
-- name: Xin 
+- name: Xin
   user: XinGITLou
-- name: Yun-Hsia 
+- name: Yun-Hsia
   user: yunhsiaho
-
-
-
