@@ -15,4 +15,4 @@
 
 **_nice to meet you all_** :smile:
 
-![My picture](img/4246.JPG)
+![My picture](./img/mervat.JPG)
