@@ -7,4 +7,4 @@
 
 ## Profile picture
 
-![profile pic](./profile.jpg)
+![profile pic](./img/juhar.jpg)
