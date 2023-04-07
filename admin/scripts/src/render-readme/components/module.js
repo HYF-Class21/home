@@ -14,8 +14,13 @@ export const module = (
 
   const urlSafeName = `"${encodeURIComponent(name)}"`;
 
+  // New HYF ORG link
   const projectSearch = (label = '', linkText = label) =>
-    `[${linkText}](https://github.com/${env.user}/${env.repo}/projects/${modules.board}?card_filter_query=milestone%3A${urlSafeName}+label%3A${label})`;
+    `[${linkText}](https://github.com/orgs/${env.user}/projects/${modules.board}?filterQuery=milestone%3A${urlSafeName}+label%3A${label})`;
+
+  // Old HYF ORG link
+  // const projectSearch = (label = '', linkText = label) =>
+  // `[${linkText}](https://github.com/${env.user}/${env.repo}/projects/${modules.board}?card_filter_query=milestone%3A${urlSafeName}+label%3A${label})`;
 
   const labelize = (name = '') => `label%3A${name}`;
 
