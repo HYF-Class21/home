@@ -2,12 +2,18 @@ export const learner = (
   { modules = {}, env = {}, org = {} },
   { name = '', user = '', homePage = '' },
 ) => {
+  const classURL = `https://github.com/orgs/${env.user}`;
   const repoURL = `https://github.com/${env.user}/${env.repo}`;
+
+  // const repoURL = `https://github.com/${env.user}/${env.repo}`;
 
   // --- scoped utilities for generating links ---
 
   const projectSearch = (label = '', linkText = label, role = 'assignee') =>
-    `[${linkText}](${repoURL}/projects/${modules.board}?card_filter_query=${role}%3A${user}+label%3A${label})`;
+    `[${linkText}](${classURL}/projects/${modules.board}?filterQuery=${role}%3A${user}+label%3A${label})`;
+
+  // const projectSearch = (label = '', linkText = label, role = 'assignee') =>
+  // `[${linkText}](${repoURL}/projects/${modules.board}?card_filter_query=${role}%3A${user}+label%3A${label})`;
 
   const issuesSearch = (label = [], linkText = label, role = 'assignee') =>
     `[${linkText}](${repoURL}/issues/?q=${role}%3A${user}+${

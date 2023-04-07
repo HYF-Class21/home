@@ -19,9 +19,7 @@ export const top = ({ env = {}, modules = {}, org = {} }) =>
 >  </details>
 
 - [Class Calendar](${org.calendar})
-- [Study Board](https://github.com/${env.user}/${env.repo}/projects/${
-    modules.board
-  })
+- [Study Board](https://github.com/orgs/${env.user}/projects/${modules.board})
 ${
   org.forum
     ? `- [${
